@@ -13,5 +13,10 @@ int main()
     std::cin >> age;
 
     std::cout << age << std::endl;
+    std::cout << "please input a Name" << std::endl;
+    std::cin >> input;
+
+    std::cout << input << std::endl;
+
     return 0;
 }
